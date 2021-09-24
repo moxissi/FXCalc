@@ -5,4 +5,4 @@ Forex lot size calculator - 1st beta version
 - calculating 0,5%, 1% and 2% position of capital
 
 
-![alt text](https://github.com/moxissi/FXCalc/blob/main/image.png width="188" height="230")
+![alt text](https://github.com/moxissi/FXCalc/blob/main/image.png)
