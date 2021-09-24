@@ -1,0 +1,10 @@
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\bin\Debug\ForexCalc_v1.exe.config
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\bin\Debug\ForexCalc_v1.exe
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\bin\Debug\ForexCalc_v1.pdb
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.csproj.AssemblyReference.cache
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.Form1.resources
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.Properties.Resources.resources
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.csproj.GenerateResource.cache
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.csproj.CoreCompileInputs.cache
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.exe
+C:\Users\Jiří\source\repos\ForexCalc_v1\ForexCalc_v1\obj\Debug\ForexCalc_v1.pdb
